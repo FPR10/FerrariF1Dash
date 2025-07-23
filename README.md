@@ -1,7 +1,10 @@
 # Replica Dinamica della Dashboard Ferrari F1 2024
 
-> Una riproduzione interattiva della dashboard mostrata ai piloti Ferrari durante la stagione 2024 di Formula 1.
+Una riproduzione interattiva della dashboard mostrata ai piloti Ferrari durante la stagione 2024 di Formula 1.
 
+<p align="center">
+  <img src="dash.png" alt="Copertina" width="600"/>
+</p>
 ![Copertina](dash.png)
 
 ## Descrizione del Progetto
