@@ -7,16 +7,13 @@ Una riproduzione interattiva della dashboard mostrata ai piloti Ferrari durante 
 </p>
 
 ## Descrizione
-
 Ricreare fedelmente e in modo dinamico la dashboard utilizzata dai piloti della Scuderia Ferrari nel 2024.  
 La replica include elementi interattivi e visualizzazioni simulate
 
 ## Tecnologie Utilizzate
-
 - **Linguaggi:** Python 
 
-## Obiettivi del Progetto
-
+## Obiettivi
 - Replica grafica fedele all'originale
 - Visualizzazione dinamica dei parametri: velocità, marcia, ERS, delta tempo, ecc.
 
