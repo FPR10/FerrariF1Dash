@@ -21,7 +21,7 @@ La replica include elementi interattivi e visualizzazioni simulate
 - Visualizzazione dinamica dei parametri: velocità, marcia, ERS, delta tempo, ecc.
 
 ## Clone repository
-git clone
+git clone https://github.com/FPR10/FerrariF1Dash.git
 
 ## Info
 Francesco Pio Ruffo <br>
