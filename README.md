@@ -5,11 +5,10 @@ Una riproduzione interattiva della dashboard mostrata ai piloti Ferrari durante 
 <p align="center">
   <img src="dash.png" alt="Copertina" width="600"/>
 </p>
-![Copertina](dash.png)
 
 ## Descrizione del Progetto
 
-Questo progetto ha l'obiettivo di ricreare fedelmente e in modo dinamico la dashboard utilizzata dai piloti della Scuderia Ferrari nel 2024.  
+Ricreare fedelmente e in modo dinamico la dashboard utilizzata dai piloti della Scuderia Ferrari nel 2024.  
 La replica include elementi interattivi e visualizzazioni simulate
 
 ## Tecnologie Utilizzate
